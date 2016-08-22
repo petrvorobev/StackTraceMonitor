@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackTraceMonitorConsole", "StackTraceMonitorConsole\StackTraceMonitorConsole.csproj", "{E720FF32-0D9A-40CD-A816-219EF44DC68B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackTraceMonitorLib", "StackTraceMonitorLib\StackTraceMonitorLib.csproj", "{B9CCB0BF-C07E-424D-9079-21E9E0878D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopTest", "LoopTest\LoopTest.csproj", "{FADA569D-D2A4-4685-9466-5BE909B5BE75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E720FF32-0D9A-40CD-A816-219EF44DC68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E720FF32-0D9A-40CD-A816-219EF44DC68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E720FF32-0D9A-40CD-A816-219EF44DC68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CCB0BF-C07E-424D-9079-21E9E0878D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CCB0BF-C07E-424D-9079-21E9E0878D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CCB0BF-C07E-424D-9079-21E9E0878D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CCB0BF-C07E-424D-9079-21E9E0878D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADA569D-D2A4-4685-9466-5BE909B5BE75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADA569D-D2A4-4685-9466-5BE909B5BE75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADA569D-D2A4-4685-9466-5BE909B5BE75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADA569D-D2A4-4685-9466-5BE909B5BE75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
